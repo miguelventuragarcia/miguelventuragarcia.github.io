@@ -9,12 +9,3 @@ location: "Lisbon, Portugal"
 ---
 
 Online classes to introduce interested highschool students to advanced mathematics subjects. In particular, I gave a course in Linear Algebra.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
