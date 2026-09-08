@@ -4,7 +4,7 @@ collection: teaching
 type: "Highschool Summer School"
 permalink: /teaching/2015-spring-teaching-1
 venue: "TreeTree2"
-date: 2025-07
+date: 2025-07-15
 location: "Lisbon, Portugal"
 ---
 
