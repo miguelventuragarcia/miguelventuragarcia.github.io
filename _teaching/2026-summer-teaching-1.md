@@ -4,7 +4,7 @@ collection: teaching
 type: "Highschool Summer School"
 permalink: /teaching/2026-summer-teaching-1
 venue: "NOVA FCT, Department of Mathematics"
-date: 2026-07
+date: 2026-07-07
 location: "Caparica, Lisbon, Portugal"
 ---
 
