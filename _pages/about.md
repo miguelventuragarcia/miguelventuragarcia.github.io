@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Greetings dear visitor!
+Greetings dear visitor! Welcome to my page. 
 
-Welcome to my page. If you happened to fall into this website by accident and have no idea who I am and what I do, let me introduce myself.
+![](/images/homepage.jpeg)
+
+If you happened to fall into this website by accident and have no idea who I am and what I do, let me introduce myself.
 
 My name is Miguel Garcia and, from a very young age, I have always shown an intense curiosity as to *why* things work. After a rather brief situationship with the realm of biology, I ended up where I believe I am happiest: studying the beautiful abstract nonsense that is the incredible world of Mathematics.
 
