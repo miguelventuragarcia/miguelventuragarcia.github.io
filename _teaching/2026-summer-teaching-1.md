@@ -9,12 +9,3 @@ location: "Caparica, Lisbon, Portugal"
 ---
 
 A gentle introduction to the basic concepts of Group Theory and to the history of the subject
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
