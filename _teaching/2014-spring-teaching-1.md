@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Escola de Verão NOVA FCT"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Highschool Summer School"
+permalink: /teaching/2026-summer-teaching-1
+venue: "NOVA FCT, Department of Mathematics"
+date: 2026-07
+location: "Caparica, Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A gentle introduction to the basic concepts of Group Theory and to the history of the subject
 
 Heading 1
 ======
