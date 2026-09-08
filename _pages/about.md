@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings dear visitor! Welcome to my page. 
 
-![](images/homepage.jpeg)
+![alt](images/homepage.jpeg)
 
 If you happened to fall into this website by accident and have no idea who I am and what I do, let me introduce myself.
 
